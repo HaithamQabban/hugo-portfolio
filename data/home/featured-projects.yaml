@@ -9,7 +9,7 @@ items:
     tech:
       - NestJS
       - React
-    type: Apps Team
+    type: Swisscom
     accent: cyan
 
   - title: Newsroom - Team Anchorman
