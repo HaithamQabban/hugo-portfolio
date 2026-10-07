@@ -31,7 +31,7 @@ sections:
         value: Backend & APIs
         accent: cyan
       - label: School
-        value: Monday & Tuesday
+        value: Thursday & Friday
         accent: amber
       - label: Location
         value: Muri bei Bern
