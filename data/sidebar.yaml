@@ -1,7 +1,7 @@
 profile:
   name: "Haitham Qabban"
   title: Software Developer Apprentice
-  avatar: "https://avatars.githubusercontent.com/u/148694351?v=4"
+  avatar: "/images/foto.jpg"
   description: Backend-focused developer at Swisscom, building APIs and learning across web, infrastructure, and game development.
   status:
     label: Current role
