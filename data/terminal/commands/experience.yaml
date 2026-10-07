@@ -1,0 +1,29 @@
+name: experience
+label: Experience
+description: My apprenticeship journey
+quick: true
+weight: 30
+roles:
+  - title: Backend Developer Apprentice
+    company: Swisscom - Apps Team
+    period: Current
+    highlights:
+      - Develop the backend with NestJS.
+      - Learn React to expand my frontend knowledge.
+  - title: Newsroom - Team Anchorman
+    company: Swisscom
+    period: Aug 2025 - Feb 2026
+    highlights:
+      - Developed Python endpoints for the Newsroom project.
+      - Contributed as part of the Team Anchorman delivery team.
+  - title: ASP.NET / C# Developer - CRM Monitor (TV)
+    company: Swisscom
+    period: Feb 2025 - Aug 2025
+    highlights:
+      - Contributed to a marketing application built with ASP.NET and C#.
+      - Built foundational experience with .NET and Blazor.
+  - title: NEX@PMG - Policy Automation
+    company: Swisscom
+    period: Aug 2024 - Jan 2025
+    highlights:
+      - Worked on policy automation for operations management.

@@ -1,0 +1,49 @@
+name: projects
+label: Projects
+description: View selected projects
+quick: true
+weight: 40
+items:
+  - name: Swisscom Project Rotations
+    type: Work
+    role: Application developer apprentice
+    tech:
+      - Python
+      - C#
+      - ASP.NET
+    description: Project work across NEX@PMG, CRM Monitor, and Newsroom.
+    url: /posts/apprenticeship-journey/
+  - name: RAG Application
+    type: Learning
+    role: Developer
+    tech:
+      - Python
+      - Embeddings
+      - Semantic Search
+    description: A retrieval-augmented generation application covering chunking, embeddings, and semantic search.
+    url: /posts/technical-skills/#ai-and-machine-learning
+  - name: Interactive 3D Portfolio
+    type: Personal
+    role: Developer
+    tech:
+      - Angular
+      - Three.js
+      - Spline 3D
+    description: An interactive portfolio used to learn foundational 3D web workflows.
+    url: /posts/technical-skills/#frontend
+  - name: Nerdy Portfolio
+    type: Personal
+    role: Developer
+    tech:
+      - Hugo
+      - Tailwind CSS
+      - YAML
+    description: This data-driven portfolio and technical notebook.
+    url: https://github.com/HaithamQabban/myportfolio
+  - name: JIIFORS Games
+    type: Personal
+    role: Game developer
+    tech:
+      - Game Development
+    description: My itch.io profile featuring The GREATEST game of all time and JISOKAR.
+    url: https://jiifors.itch.io/

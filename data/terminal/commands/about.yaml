@@ -1,0 +1,13 @@
+name: about
+label: About
+description: Learn more about me
+quick: true
+weight: 10
+greeting: Hello!
+person_name: "Haitham Qabban"
+role: software developer apprentice
+summary: I am a backend-focused developer at Swisscom who enjoys learning by building.
+details:
+  - I currently work in the Apps Team, developing backend services with NestJS and beginning to learn React.
+  - My experience also includes Python, FastAPI, TypeScript, .NET, C#, and container tooling.
+  - Outside work, I build games and enjoy football, snowboarding, Brazilian Jiu-Jitsu, and climbing.

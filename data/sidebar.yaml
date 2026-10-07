@@ -1,0 +1,65 @@
+profile:
+  name: "Haitham Qabban"
+  title: Software Developer Apprentice
+  avatar: "https://avatars.githubusercontent.com/u/148694351?v=4"
+  description: Backend-focused developer at Swisscom, building APIs and learning across web, infrastructure, and game development.
+  status:
+    label: Current role
+    value: Backend Developer
+    preference_label: Team
+    preference: Apps Team
+  links:
+    - icon: github
+      label: github.com/haithamqabban
+      url: https://github.com/haithamqabban
+    - icon: website
+      label: jiifors.itch.io
+      url: https://jiifors.itch.io/
+    - icon: mail
+      label: haitham.qabban@swisscom.com
+      url: mailto:Haitham.Qabban@swisscom.com
+
+sections:
+  - id: profile-stats
+    type: stats
+    title: Profile Stats
+    items:
+      - label: Role
+        value: Developer Apprentice
+        accent: emerald
+      - label: Focus
+        value: Backend & APIs
+        accent: cyan
+      - label: School
+        value: Monday & Tuesday
+        accent: amber
+      - label: Location
+        value: Muri bei Bern
+        accent: cyan
+      - label: Languages
+        value: AR / TR / EN / DE
+        accent: purple
+
+  - id: core-stack
+    type: tags
+    title: Core Stack
+    items:
+      - NestJS
+      - React
+      - TypeScript
+      - Python
+      - FastAPI
+      - C# / .NET
+      - Docker
+      - Podman
+      - SQL
+
+  - id: interests
+    type: tags
+    title: Interests
+    items:
+      - Game Development
+      - Football
+      - Snowboarding
+      - Brazilian Jiu-Jitsu
+      - Climbing

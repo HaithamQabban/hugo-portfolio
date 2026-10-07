@@ -1,0 +1,48 @@
+id: featured-projects
+type: projects
+icon: repository
+title: Selected Projects
+items:
+  - title: Apps Team
+    role: Backend developer apprentice
+    description: Backend development with NestJS on my current project as part of Swisscom's Apps Team, while learning React.
+    tech:
+      - NestJS
+      - React
+    type: Apps Team
+    accent: cyan
+
+  - title: Newsroom - Team Anchorman
+    role: Python endpoint development
+    description: Built and maintained Python endpoints for the Newsroom project.
+    tech:
+      - Python
+      - REST APIs
+    type: Swisscom
+    accent: emerald
+
+  - title: CRM Monitor (TV)
+    role: ASP.NET and C# developer
+    description: Contributed to a marketing application and learned the .NET, C#, and Blazor stack.
+    tech:
+      - ASP.NET
+      - C#
+      - Blazor
+    type: Swisscom
+    accent: purple
+
+  - title: NEX@PMG
+    role: Application developer apprentice
+    description: Worked on policy automation for operations management.
+    type: Swisscom
+    accent: amber
+
+  - title: JIIFORS Games
+    role: Game developer
+    description: My itch.io profile featuring The GREATEST game of all time and JISOKAR.
+    type: Personal
+    accent: cyan
+    links:
+      - label: Play on itch.io
+        url: https://jiifors.itch.io/
+        icon: website

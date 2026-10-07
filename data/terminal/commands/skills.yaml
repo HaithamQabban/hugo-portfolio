@@ -1,0 +1,36 @@
+name: skills
+label: Skills
+description: My technical stack
+quick: true
+weight: 20
+categories:
+  - key: frontend
+    items:
+      - TypeScript
+      - React
+      - Angular
+      - HTML / CSS / SCSS
+      - Three.js
+      - Spline 3D
+  - key: backend
+    items:
+      - FastAPI
+      - NestJS
+      - ASP.NET / C# / Blazor
+      - JWT authentication
+      - Entity Framework Core
+  - key: languages
+    items:
+      - Python
+      - C# / Unity
+  - key: infrastructure_data
+    items:
+      - Docker
+      - Podman
+      - SQL / databases
+      - Object-oriented programming
+  - key: ai_ml
+    items:
+      - RAG
+      - Embeddings and semantic search
+      - Model Context Protocol
