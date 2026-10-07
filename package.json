@@ -4,8 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "hugo --renderToMemory && hugo --minify --gc --cleanDestinationDir",
-    "server": "hugo --renderToMemory && hugo server --buildDrafts --watch",
+    "build": "hugo --minify",    "server": "hugo --renderToMemory && hugo server --buildDrafts --watch",
     "dev": "npm run server",
     "theme:update": "hugo mod get github.com/hugo-themes/nerdy@latest && hugo mod tidy && hugo mod npm pack && npm install",
     "theme:update-to-main": "hugo mod get github.com/hugo-themes/nerdy@main && hugo mod tidy && hugo mod npm pack && npm install"
